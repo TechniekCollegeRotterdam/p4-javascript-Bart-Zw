@@ -16,6 +16,9 @@ countryChange.addEventListener("change", function(){
     changeInput();
 })
 
+
+
+
 /*const nameChanged = function(event){
     //het event loggen in je console
     name = event.target.value;
