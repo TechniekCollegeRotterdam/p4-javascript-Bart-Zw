@@ -16,6 +16,7 @@ bird.addEventListener("click", function(){
 
 })
 
+
 window.addEventListener("keydown", function(e){
     console.log(e.key);
 
